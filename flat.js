@@ -9,5 +9,5 @@ console.log(arr2.flat(1));
 // expected output: [0, 1, 2, [3, 4]]
 
 /*
-.flat tar bort antalet sub arrays som man skivit i parantesen. 
+.flat tar bort antalet sub arrays som man skivit i parantesen.  
 */
